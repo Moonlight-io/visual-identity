@@ -1,0 +1,2 @@
+Moonlight is a decentralized workforce platform anchored on the NEO blockchain.  It provides improved fluidity to conventional resource management activities by integrating 'gig economy' mechanics into a project management platform.
+Tasks completed in moonlight are published to a user's address on the blockchain which acts as a trustless resume.  This data is also leveraged by the ecosystem's project tracking and staffing tools.
