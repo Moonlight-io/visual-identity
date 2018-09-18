@@ -32,20 +32,10 @@
 ### Token (Moonlight LUX) $LX
 
   <img 
-    src="./lux/LUX-Icon_for-light-bg.png" 
+    src="./lux/LUX-Icon_for-light-bg.svg" 
     width="100px"
     alt="Moonlight">
-    
-  <img 
-    src="./lux/LUX_Colour_for-light-BGs.png" 
-    width="200px"
-    alt="Moonlight">
-    
-  <img 
-    src="./lux/LUX_Monotone_for-light-BGs.png" 
-    width="200px"
-    alt="Moonlight">
-    
+        
 # For Dark Themes:
 
 ### Moonlight Logo:
@@ -65,16 +55,7 @@
 ### Token (Moonlight LUX) $LX
 
   <img 
-    src="./lux/LUX-Icon_for-dark-bg.png" 
+    src="./lux/LUX-Icon_for-dark-bg.svg" 
     width="100px"
     alt="Moonlight">
     
-  <img 
-    src="./lux/LUX_Colour_for-dark-BGs.png" 
-    width="200px"
-    alt="Moonlight">
-    
-  <img 
-    src="./lux/LUX_Monotone_for-dark-BGs.png" 
-    width="200px"
-    alt="Moonlight">
