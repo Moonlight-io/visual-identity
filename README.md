@@ -59,3 +59,43 @@
     width="100px"
     alt="Moonlight">
     
+    <p align="center">
+  <img 
+    src="https://github.com/Moonlight-io/visual-identity/blob/master/logo/Vivid_Logo-Block_1080x1080_RGB.png?raw=true" 
+    width="200px"
+    alt="Vivid">
+</p>
+
+<p align="center" style="font-size: 48px;">
+  <strong>Visual Identity</strong>
+</p>
+
+<p align="center">
+ A visual identity repository for project Vivid.
+</p>
+
+# For Light Themes:
+
+### Vivid Logo:
+
+  <img 
+    src="./logo/Vivid_Logo-Purple_1080_RGB.png" 
+    width="300px"
+    alt="Vivid">
+
+### Vivid Logo (Monochrome):
+
+  <img 
+    src="./lux/Vivid_Logo-Black_1080_RGB.png" 
+    width="300px"
+    alt="Vivid">
+        
+# For Dark Themes:
+
+### Vivid Logo:
+
+  <img 
+    src="./logo/Vivid_Logo-White_1080_RGB.png" 
+    width="300px"
+    alt="Vivid">
+
