@@ -58,7 +58,10 @@
     src="./lux/LUX-Icon_for-dark-bg.svg" 
     width="100px"
     alt="Moonlight">
-    
+ 
+ #
+ 
+ 
    <p align="center">
   <img 
     src="./logo/Vivid_Logo-Block_1080x1080_RGB.png" 
