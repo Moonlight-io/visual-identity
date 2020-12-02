@@ -80,14 +80,14 @@
 
   <img 
     src="./logo/Vivid_Logo-Purple_1080_RGB.png" 
-    width="300px"
+    width="200px"
     alt="Vivid">
 
 ### Vivid Logo (Monochrome):
 
   <img 
     src="./logo/Vivid_Logo-Black_1080_RGB.png" 
-    width="300px"
+    width="200px"
     alt="Vivid">
         
 # For Dark Themes:
@@ -96,6 +96,6 @@
 
   <img 
     src="./logo/Vivid_Logo-White_1080_RGB.png" 
-    width="300px"
+    width="200px"
     alt="Vivid">
 
