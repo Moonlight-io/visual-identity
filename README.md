@@ -59,9 +59,9 @@
     width="100px"
     alt="Moonlight">
     
-    <p align="center">
+   <p align="center">
   <img 
-    src="https://github.com/Moonlight-io/visual-identity/blob/master/logo/Vivid_Logo-Block_1080x1080_RGB.png?raw=true" 
+    src="./logo/Vivid_Logo-Block_1080x1080_RGB.png" 
     width="200px"
     alt="Vivid">
 </p>
@@ -86,7 +86,7 @@
 ### Vivid Logo (Monochrome):
 
   <img 
-    src="./lux/Vivid_Logo-Black_1080_RGB.png" 
+    src="./logo/Vivid_Logo-Black_1080_RGB.png" 
     width="300px"
     alt="Vivid">
         
